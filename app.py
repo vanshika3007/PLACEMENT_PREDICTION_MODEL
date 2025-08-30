@@ -107,3 +107,5 @@ if prediction == 1:
 else:
     st.warning("😔 Unfortunately, the student is **Not Placed** ❌")
     st.image("https://i.ytimg.com/vi/88cAJRL5joE/maxresdefault.jpg", width=250)
+
+st.markdown('Designed by: **Niyati Singh and Vanshika Bhardwaj**')
